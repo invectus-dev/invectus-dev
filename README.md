@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently Working on Freelancing and Sell Digital Product <br>👯 I’m looking to collaborate on Fullstack, Backend, Frontend<br>🌱 I’m currently learning PHP, Laravel, Mysql, React, <br>⚡ Fun fact  : i'm ultraman
+🔭 I’m currently Working on Freelancing and Sell Digital Product <br>👯 I’m looking to collaborate on Fullstack, Backend, Frontend<br>🌱 I’m currently learning PHP, Laravel, Mysql, React, <br>⚡ Fun fact  : i'm ultraman<br>
+HIII SELLAAAA!!!
 
 
 ## 🌐 Socials:
