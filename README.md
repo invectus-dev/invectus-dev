@@ -14,9 +14,10 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
+[![GitHub Game of Life](https://github4life.herokuapp.com/ethomson.gif?z=6)](https://github4life.herokuapp.com/ethomson)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=invectus-dev&icon=7&color=1)](https://visitcount.itsvg.in)
 
-[![GitHub Game of Life](https://github4life.herokuapp.com/ethomson.gif?z=6)](https://github4life.herokuapp.com/ethomson)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
