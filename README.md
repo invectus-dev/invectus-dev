@@ -2,9 +2,6 @@
 
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
-[![GitHub Game of Life](https://github4life.herokuapp.com/ethomson.gif?z=6)](https://github4life.herokuapp.com/ethomson)
-
-
 # 💫 About Me:
 🔭 I’m currently Working on Freelancing and Sell Digital Product <br>👯 I’m looking to collaborate on Fullstack, Backend, Frontend<br>🌱 I’m currently learning PHP, Laravel, Mysql, React, <br>⚡ Fun fact  : i'm ultraman<br>
 
@@ -19,5 +16,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=invectus-dev&icon=7&color=1)](https://visitcount.itsvg.in)
+
+[![GitHub Game of Life](https://github4life.herokuapp.com/ethomson.gif?z=6)](https://github4life.herokuapp.com/ethomson)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
