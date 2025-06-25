@@ -4,13 +4,6 @@
 
 [![GitHub Game of Life](https://github4life.herokuapp.com/ethomson.gif?z=6)](https://github4life.herokuapp.com/ethomson)
 
-## Get in touch :coffee:
-
-- [Personal Blog](https://sagarviradiya.dev)
-- [Twitter](https://twitter.com/viradiya_sagar)
-- [Medium](https://medium.com/@sagarviradiya)
-- [LinkedIn](https://www.linkedin.com/in/sagarviradiya)
-
 
 # 💫 About Me:
 🔭 I’m currently Working on Freelancing and Sell Digital Product <br>👯 I’m looking to collaborate on Fullstack, Backend, Frontend<br>🌱 I’m currently learning PHP, Laravel, Mysql, React, <br>⚡ Fun fact  : i'm ultraman<br>
